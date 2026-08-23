@@ -1,0 +1,13 @@
+[
+  {
+    "problem_id": "move-zeroes",
+    "problem_title": "Move Zeroes",
+    "pattern": "Linear Scan / Traversal",
+    "complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "correctness_score": 100,
+    "optimal_pattern": "Two Pointer",
+    "is_optimal": false,
+    "timestamp": "2026-08-23T19:22:55.406382"
+  }
+]
